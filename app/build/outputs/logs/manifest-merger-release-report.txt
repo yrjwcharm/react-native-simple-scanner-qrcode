@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:2:1-31:12
+MERGED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f0a9b2b6bd9f1189896f2815ad0cf624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2d6edc8f5004ea7d785ca1449b268cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\81cb83dc30a7725f136cbc05a655bd60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2207101fa35ab5e795b85634440b5f7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\90804783eef28786eddb1d85f73ae4aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ef54a21c3d2c5399729aab634be5f993\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\21f81194054110e24a08a18522ce8068\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\03ac9ee63dd960eb50fcf20abc71bc2f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\611da41d72d1c67dc5a1ceef346103e4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\57717c22f853d492aed8331e739827aa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\afff8647f2862e913860dcfdc33e93f6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\464f6523696c2dcb22fe80538d5b1593\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7a80daf72b55317b48257cce0c3235cf\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6ee66c0c920dcc8430250290abe2c395\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7289ed3e109c134581dca63e49007501\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ff233556a3516f9713a8385c4306775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\bc408fc99c76882a99823a4c6a7743ff\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae7484ed9cc39edae3f971f14784af41\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73c80c29e2c94ef45ff02cad988287cb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:4:5-65
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:11:5-65
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:5:5-69
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:12:5-69
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:5:22-66
+uses-feature#android.hardware.camera
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:6:5-60
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:14:5-60
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:7:5-70
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:15:5-70
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:8:5-66
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:17:5-66
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:18:5-68
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:19:5-80
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:20:5-81
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:22:5-29:19
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:22:5-29:19
+MERGED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:11:5-17:19
+MERGED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7a80daf72b55317b48257cce0c3235cf\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7a80daf72b55317b48257cce0c3235cf\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6ee66c0c920dcc8430250290abe2c395\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6ee66c0c920dcc8430250290abe2c395\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:15:7-39
+	android:icon
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:17:7-34
+	android:theme
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.rnscannerqrcodesimple.MainActivity
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:29:17-81
+uses-sdk
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f0a9b2b6bd9f1189896f2815ad0cf624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f0a9b2b6bd9f1189896f2815ad0cf624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2d6edc8f5004ea7d785ca1449b268cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2d6edc8f5004ea7d785ca1449b268cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\81cb83dc30a7725f136cbc05a655bd60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\81cb83dc30a7725f136cbc05a655bd60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2207101fa35ab5e795b85634440b5f7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2207101fa35ab5e795b85634440b5f7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\90804783eef28786eddb1d85f73ae4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\90804783eef28786eddb1d85f73ae4aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ef54a21c3d2c5399729aab634be5f993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ef54a21c3d2c5399729aab634be5f993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\21f81194054110e24a08a18522ce8068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\21f81194054110e24a08a18522ce8068\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\03ac9ee63dd960eb50fcf20abc71bc2f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\03ac9ee63dd960eb50fcf20abc71bc2f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\611da41d72d1c67dc5a1ceef346103e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\611da41d72d1c67dc5a1ceef346103e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\57717c22f853d492aed8331e739827aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\57717c22f853d492aed8331e739827aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\afff8647f2862e913860dcfdc33e93f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\afff8647f2862e913860dcfdc33e93f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\464f6523696c2dcb22fe80538d5b1593\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\464f6523696c2dcb22fe80538d5b1593\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7a80daf72b55317b48257cce0c3235cf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\7a80daf72b55317b48257cce0c3235cf\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7289ed3e109c134581dca63e49007501\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7289ed3e109c134581dca63e49007501\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ff233556a3516f9713a8385c4306775\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8ff233556a3516f9713a8385c4306775\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\bc408fc99c76882a99823a4c6a7743ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\bc408fc99c76882a99823a4c6a7743ff\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae7484ed9cc39edae3f971f14784af41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae7484ed9cc39edae3f971f14784af41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73c80c29e2c94ef45ff02cad988287cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73c80c29e2c94ef45ff02cad988287cb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml
+activity#com.yzq.zxinglibrary.android.CaptureActivity
+ADDED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:23:9-28:67
+	android:screenOrientation
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:26:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:28:13-64
+	android:configChanges
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.5] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\zxing-2.2.5.aar\0188c1d3dcb77cfbcf3128f5fb08a8f5\AndroidManifest.xml:24:13-72
+provider#com.qw.soul.permission.InitProvider
+ADDED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:12:9-16:43
+	android:authorities
+		ADDED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:14:13-71
+	android:multiprocess
+		ADDED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:16:13-40
+	android:exported
+		ADDED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.qw:soulpermission:1.1.7] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\soulpermission-1.1.7.aar\f09235a6e3079c6e53637da6b973fc83\AndroidManifest.xml:13:13-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [com.facebook.react:react-native:0.57.8] C:\Users\60186\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\c329e41573db50e737fcdeb9552e0281\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\60186\RnScannerQrcodeSimple\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
