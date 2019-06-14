@@ -1,4 +1,12 @@
+>ReactNative调用
+==============
+```javascript
+          NativeModules.NaviModule.startQrcodeScanner().then(result=>{
+          alert(result);
+        }).catch(error=>{
 
+        });
+```
 
 首先来看看效果图
 ========
