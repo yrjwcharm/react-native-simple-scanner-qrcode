@@ -3,11 +3,56 @@
 ---------------------
 
 ```javascript
-          NativeModules.NaviModule.startQrcodeScanner().then(result=>{
-          alert(result);
-        }).catch(error=>{
+        /**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ * @flow
+ */
 
-        });
+import React, {Component} from 'react';
+import {  NativeModules,TouchableOpacity, Platform, StyleSheet, Text, View} from 'react-native';
+
+type Props = {};
+export default class App extends Component<Props> {
+  _scanner=()=>{
+    NativeModules.NaviModule.startQrcodeScanner().then(result=>{
+      alert(result);
+    }).catch(error=>{
+
+    });
+  }
+  render() {
+    return (
+      <View style={styles.container}>
+        <TouchableOpacity onPress={this._scanner}>
+            <Text>扫描</Text>
+        </TouchableOpacity>
+      </View>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F5FCFF',
+  },
+  welcome: {
+    fontSize: 20,
+    textAlign: 'center',
+    margin: 10,
+  },
+  instructions: {
+    textAlign: 'center',
+    color: '#333333',
+    marginBottom: 5,
+  },
+});
+
 ```
 
 首先来看看效果图
