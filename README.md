@@ -1,6 +1,6 @@
 
 #### ReactNative调用
-----------------------------
+---------------------
 
 ```javascript
           NativeModules.NaviModule.startQrcodeScanner().then(result=>{
